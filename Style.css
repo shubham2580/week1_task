@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+}
+.header_div{
+    height: 200px;
+    width: 1280px;
+    background-color: black;
+    float: left;
+    display: inline;
+    
+}
+.comb_div{
+    margin-bottom: 0px;
+}
+
+.middle_div{
+    height: 300px;
+    width: 1280px;
+    background-color: white;
+    float: left;
+    margin: 0px;
+}
+
+.left_div{
+    height: 500px;
+    width: 50px;
+    background-color: white;
+    float: left;
+    margin: 0px;
+}
+
+.main_div{
+    display: inline-block;
+    margin: 0px;
+}
+
+.footer_div{
+    height: 150px;
+    width: 1330px;
+    background-color: blueviolet;
+    margin: 0px;
+}
+img1{
+    margin-left: 10px;
+    margin-top: 10px;
+    float: left;
+}
+.temp_text{
+    color: aliceblue;
+}
+
+.header-temp{
+    float: left;
+    margin-left: 30px;
+    font-family: 'Lato', sans-serif;
+}
+table {
+    width: 100%;
+    margin-left: 10px;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+  }
+tr:nth-child(even){
+    background-color: lightgray;
+}
+
+.footer-temp{
+    float: left;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+}
+
+.side_bar{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+}
+
+.gape{
+    margin-top: 60px;
+    margin-left: 20px;
+
+}
+.cnt_button{
+    margin-top: 70px;
+    float: right;
+}
+.cnt_gape{
+    margin-left: 50px;
+    margin-right: 50px;
+}
